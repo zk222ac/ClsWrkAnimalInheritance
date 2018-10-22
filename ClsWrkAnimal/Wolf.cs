@@ -10,8 +10,7 @@ namespace ClsWrkAnimal
     {
         public Wolf(string name) : base(name)
         {
-
-
+            
         }
         public override string MakeNoise()
         {
